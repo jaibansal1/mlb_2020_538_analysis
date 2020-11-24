@@ -26,7 +26,10 @@ As of November 2020, Jai Bansal is a junior at Vanderbilt University triple majo
 
 ## Citations
 https://www.bettingpros.com/mlb/futures-picks/over-under/
+
 https://fivethirtyeight.com/
+
 https://www.statisticshowto.com/brier-score/
+
 https://en.wikipedia.org/wiki/Elo_rating_system
 
